@@ -43,11 +43,7 @@ The player navigates through a forest environment, avoids obstacles, and aims to
 
 ---
 
-## 📸 Screenshots
 
-(Add your game screenshots here)
-
----
 
 ## 🤝 Contributing
 
