@@ -1,4 +1,4 @@
-# eco-dash-run-before-dawn
+
 # 🎮 EcoDash – Run Before Dawn
 
 ## 📌 About the Project
